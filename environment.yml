@@ -13,8 +13,6 @@ dependencies:
   - scikit-image=0.16.2=py37h0573a6f_0
   - scikit-learn=0.22.1=py37hd81dba3_0
   - scipy=1.4.1=py37h0b6359f_0
-  - pip:
-    - llvmlite==0.33.0
-    - hyperspy==1.5.2
+  - hyperspy=1.5.2=py37_0
 prefix: /home/norbert/anaconda3
 
