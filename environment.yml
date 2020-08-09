@@ -15,6 +15,6 @@ dependencies:
   - scipy=1.4.1=py37h0b6359f_0
   - pip:
     - opencv-python==4.3.0.36
-    - hyperspy=1.5.2=py37_0
+    - hyperspy=1.5.2
 prefix: /home/norbert/anaconda3
 
