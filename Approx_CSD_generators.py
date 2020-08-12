@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from numpy import sqrt
 
-from skimage import morphology, measure, io
+from skimage import morphology, measure
 
 
 
@@ -108,5 +108,4 @@ def gen_csd_plot(size, min_size, max_size, n_bins, area):
     fig.show()
     
     return fig, ax
-
 
