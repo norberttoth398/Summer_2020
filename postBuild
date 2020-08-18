@@ -1,2 +1,2 @@
-wget -q -O JM1_OL6_map1_decomp.hspy "https://www.dropbox.com/s/y66goa337reio48/JM1_OL6_map1_decomp.hspy?dl=1"
-wget -q -O size_comp_data_JM1_OL6.npz "https://www.dropbox.com/s/zajv6j58r7zjjjd/size_comp_data_JM1_OL6.npz?dl=1"
+wget -q -O 'Textural Processing'/JM1_OL6_map1_decomp.hspy "https://www.dropbox.com/s/y66goa337reio48/JM1_OL6_map1_decomp.hspy?dl=1"
+wget -q -O 'Textural Processing'/size_comp_data_JM1_OL6.npz "https://www.dropbox.com/s/zajv6j58r7zjjjd/size_comp_data_JM1_OL6.npz?dl=1"
