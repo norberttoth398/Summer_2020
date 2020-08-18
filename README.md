@@ -1,10 +1,10 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tothnorbi98/Summer_2020/87e43b2860fb4b01cea4cba2324befe3e2613de0)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tothnorbi98/Summer_2020/1defb894e020373477a8f3ea3f1e43bcdfd8c12f)
 
 # EDS Analysis - Summer 2020
 Machine Learning and Image segmentation for EDS crystal shape and size analysis in Cambridge ES. <br/>
 
 
-To launch binder environment for "ExampleTexturalProcessing.ipynb" notebook, use: https://mybinder.org/v2/gh/tothnorbi98/Summer_2020/87e43b2860fb4b01cea4cba2324befe3e2613de0. <br/>
+To launch binder environment for "ExampleTexturalProcessing.ipynb" notebook, use: https://mybinder.org/v2/gh/tothnorbi98/Summer_2020/1defb894e020373477a8f3ea3f1e43bcdfd8c12f. <br/>
 
 <pre>
 Script file structure within repository: (files such as README or binder build files are not shown) 
